@@ -1,1 +1,2 @@
-# react_js_study
+# ReactJS Study
+
